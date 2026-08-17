@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="./Untitled18_20260817105924_transparent.gif" width="500">
+  <img src="./Untitled18_20260817105924_transparent.gif" width="1000">
 </p>
 
 
