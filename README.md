@@ -1,6 +1,11 @@
 
 <img src="./Untitled18_20260817105924_transparent.gif" width="500">
 
+<p align="center">
+  <img src="./Untitled18_20260817105924_transparent.gif" width="500">
+</p>
+
+
 
 <p align="center">
   <img src="./011428A0-F6F4-467B-830D-D8027AEA5CB3.gif" width="100">
