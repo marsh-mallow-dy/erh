@@ -4,6 +4,12 @@
   <img src="./011428A0-F6F4-467B-830D-D8027AEA5CB3.gif" width="100">
 </p>
 
+<p align="center">
+  <img src="./011428A0-F6F4-467B-830D-D8027AEA5CB3.gif" width="100">
+  <img src="./bunni-text.svg" width="400">
+  <img src="./011428A0-F6F4-467B-830D-D8027AEA5CB3.gif" width="100">
+</p>
+
 <a href="https://open.spotify.com/track/0Z97NVP2APoS2tZEByiF0t">
   <img src="0949AA5A-97BD-401C-BA20-EDE76A55814E.gif" width="180">
 </a>
