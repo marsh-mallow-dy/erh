@@ -15,9 +15,7 @@
 
 </div>
 
-<p align="center">
-  <img src="./Untitled18_20260817105924" width="100">
-</p>
+
 
 <p align="center">
   <img src="./Untitled18_20260817105924.png" width="1000">
