@@ -1,5 +1,4 @@
 
-<img src="./Untitled18_20260817105924_transparent.gif" width="500">
 
 <p align="center">
   <img src="./Untitled18_20260817105924_transparent.gif" width="500">
