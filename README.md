@@ -1,9 +1,16 @@
-Everything here is Wip 
-![Description](IMG_0284.jpeg)
-![Description](IMG_283.png)
-![Description](IMG_282.png)
+<div align="center">
 
-![Description](IMG_0278.png)
-me btw!
+<img src="./0949AA5A-97BD-401C-BA20-EDE76A55814E.gif" width="180">
 
-https://scrapscout.straw.page
+<br>
+
+<b>Rewind</b><br>
+<sub>IV OF SPADES</sub>
+
+<br><br>
+
+<a href="https://open.spotify.com/track/0Z97NVP2APoS2tZEByiF0t">
+  <img src="YOUR-PLAYER-IMAGE.png" width="180">
+</a>
+
+</div>
