@@ -9,7 +9,7 @@
 
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=50&duration=1&pause=1000&color=F7B6C8&center=true&vCenter=true&width=700&height=100&lines=Mel%2FScout">
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=60&duration=1&pause=1000&color=F7B6C8&center=true&vCenter=true&width=700&height=100&lines=Mel%2FScout">
 
 
 
