@@ -39,6 +39,14 @@
 
 
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&duration=1&pause=1000&color=F7B6C8&center=true&vCenter=true&width=400&height=60&lines=Extroverted+and+conversation+starter!">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./ACA3FD5E-DA18-419D-9164-170AD792B4A9.gif" width="100">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./1AEB4824-7800-4217-BE2C-E11C9BA9F234.gif" width="100">
+</div>
+
 
 <p align="left">
   <img src="./5015D485-6B9C-4B3C-ADED-87.gif" width="100">
