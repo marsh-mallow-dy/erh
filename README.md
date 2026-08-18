@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&duration=1&pause=1000&color=F7B6C8&center=true&vCenter=true&width=300&height=60&lines=your+text+here">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&duration=1&pause=1000&color=F7B6C8&center=true&vCenter=true&width=300&height=60&𓆩15+year+old+bassist!𓆪">
 </p>
 
 <p align="left">
