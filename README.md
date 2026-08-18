@@ -12,7 +12,19 @@
   <img src="./011428A0-F6F4-467B-830D-D8027AEA5CB3.gif" width="100">
 </p>
 
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=1&pause=1000&color=F7B6C8&center=true&vCenter=true&width=700&height=100&lines=Mel%2FScout">
+
+
+
+
 <img src="./5015D485-6B9C-4B3C-ADED-877B500C2E9C.gif" width="100">
+
+
+
+
+
+
 
 
 
