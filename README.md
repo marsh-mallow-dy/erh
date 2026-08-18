@@ -65,9 +65,7 @@
   <img src="./1AEB4824-7800-4217-BE2C-E11C9BA9F234.gif" width="100">
 </div>
 
-<p align="center">
-  <img src="8077D425-D7EF-485B-9076-6FF5E7EFF01D.gif" width="300">
-</p>
+
 
 
 <p align="center">
