@@ -18,7 +18,11 @@
 
 
 
-
+<div align="right">
+  <img src="./5015D485-6B9C-4B3C-ADED-87.gif" width="100">
+  <img src="./ACA3FD5E-DA18-419D-9164-170AD792B4A9.gif" width="100">
+  <img src="./1AEB4824-7800-4217-BE2C-E11C9BA9F234.gif" width="100">
+</div>
 
 
 
