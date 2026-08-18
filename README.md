@@ -13,7 +13,6 @@
 
 
 
-<img src="./5015D485-6B9C-4B3C-ADED-877B500C2E9C.gif" width="100">
 
 
 <p align="left">
