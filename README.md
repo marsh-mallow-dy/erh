@@ -6,11 +6,7 @@
 
 
 
-<p align="center">
-  <img src="./011428A0-F6F4-467B-830D-D8027AEA5CB3.gif" width="100">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=30&duration=1&pause=1000&color=F7B6C8&center=true&vCenter=true&width=400&height=80&lines=made+this+for+fun!">
-  <img src="./011428A0-F6F4-467B-830D-D8027AEA5CB3.gif" width="100">
-</p>
+
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=50&duration=1&pause=1000&color=F7B6C8&center=true&vCenter=true&width=700&height=100&lines=Mel%2FScout">
