@@ -66,7 +66,7 @@
 </div>
 
 <p align="center">
-  <img src="8077D425-D7EF-485B-9076-6FF5E7EFF01D" width="300">
+  <img src="8077D425-D7EF-485B-9076-6FF5E7EFF01D.gif" width="300">
 </p>
 
 
@@ -80,6 +80,9 @@
 
 </div>
 
+<p align="center">
+  <img src="8077D425-D7EF-485B-9076-6FF5E7EFF01D.gif" width="300">
+</p>
 
 
 <p align="center">
