@@ -39,7 +39,9 @@
   <img src="./5015D485-6B9C-4B3C-ADED-87.gif" width="100">
 </p>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&duration=1&pause=1000&color=F7B6C8&center=true&vCenter=true&width=300&height=60&lines=Straight!">
+</p>
 
 
 
