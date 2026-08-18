@@ -66,6 +66,11 @@
 </div>
 
 <p align="center">
+  <img src="8077D425-D7EF-485B-9076-6FF5E7EFF01D" width="300">
+</p>
+
+
+<p align="center">
   <img src="./011428A0-F6F4-467B-830D-D8027AEA5CB3.gif" width="100">
 </p>
 
