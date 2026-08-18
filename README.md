@@ -15,18 +15,12 @@
 
 
 
-<p align="right">
-  <img src="./ACA3FD5E-DA18-419D-9164-170AD792B4A9.gif" width="100"><img src="./011428A0-F6F4-467B-830D-D8027AEA5CB3.gif" width="100">
-</p>
 
 
-<div align="right">
-  <img src="./ACA3FD5E-DA18-419D-9164-170AD792B4A9.gif" width="100">
-  <img src="./kawaii_pink_bunny_clean_transparent" width="100">
-</div>
 
 
-<div align="right"><img src="./ACA3FD5E-DA18-419D-9164-170AD792B4A9.gif" width="100"><img src="./kawaii_pink_bunny_clean_transparent_FIXED.gif" width="100"></div>
+
+
 
 
 
