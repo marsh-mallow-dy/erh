@@ -13,7 +13,7 @@
 </p>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&duration=1&pause=1000&color=F7B6C8&center=true&vCenter=true&width=700&height=100&lines=Mel%2FScout">
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&duration=1&pause=1000&color=F7B6C8&center=true&vCenter=true&width=1000&height=700&lines=Mel%2FScout">
 
 
 
